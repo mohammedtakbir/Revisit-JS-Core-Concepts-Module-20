@@ -18,4 +18,4 @@ const isOdd = (num) => {
     }
 }
 const res = isOdd(10);
-console.log(res)
+console.log(minutes)
